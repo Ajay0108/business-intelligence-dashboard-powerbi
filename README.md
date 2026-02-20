@@ -1,85 +1,28 @@
 📊 Global Life Expectancy & Mortality Dashboard (Power BI)
-🧩 Project Overview
 
-An interactive Power BI dashboard analyzing global public health indicators across multiple countries and years.
+📌 Overview
+Built an interactive Power BI dashboard to analyze global public health indicators across countries and years.
+The project focuses on life expectancy, adult mortality, and health expenditure trends, enabling structured long-term comparisons (2000 vs Latest Year) and data-driven storytelling.
 
-The dashboard focuses on:
-
-Life Expectancy at Birth
-
-Adult Mortality Rate
-
-Current Health Expenditure
-
-Long-term comparison (2000 vs Latest Available Year)
-
-This project demonstrates advanced DAX implementation, KPI modeling, and analytical storytelling using real-world public health data.
-
-🎯 Business Problem
-
-Public health indicators evolve over time, but meaningful insights require structured comparisons across countries and years.
-
-This dashboard was built to:
-
-Track long-term trends in life expectancy and mortality
-
-Compare country-level performance against global patterns
-
-Measure health expenditure growth since 2000
-
-Build dynamic KPIs using advanced DAX logic
-
-Enable context-aware filtering for deeper analysis
-
-📊 Dashboard Architecture
-1️⃣ Life Expectancy Analysis
-
-Dynamic Latest Year KPI
-
-Year-wise trend visualization
-
-Country-level comparison
-
-Dynamic title using slicer selection
-
-Context-sensitive filtering
-
-2️⃣ Adult Mortality Analysis
-
-Mortality trend over time
-
-2000 vs Latest Year comparison
-
-Growth / decline percentage calculation
-
-Filter-aware measures
-
+⚙️ Features
+Dynamic Life Expectancy KPI (Latest Year auto-detection)
+2000 vs Latest Year comparison metrics
+Adult Mortality trend & growth analysis
+Health Expenditure growth tracking
+Advanced DAX measures with context-aware calculations
 Cross-page slicer integration
+Country-level comparison with dynamic titles
+Clean, minimal, and insight-focused UI design
 
-3️⃣ Health Expenditure Analysis
-
-Average health expenditure KPI
-
-Growth calculation since 2000
-
-Year-over-year trend visualization
-
-Top country expenditure comparison
-
-Clean and minimal UI layout
-
-🛠 Tools & Technologies
-
+🛠 Technologies
 Power BI Desktop
-
-DAX (Data Analysis Expressions)
-
+DAX (Advanced KPI & Growth Calculations)
 Star Schema Data Modeling
-
 Interactive Slicers
-
-KPI Cards
-
 Conditional Formatting
 
-Advanced Measure Optimization
+📊 Impact
+Enables long-term public health trend analysis
+Supports country-level performance benchmarking
+Demonstrates advanced DAX, KPI modeling, and analytical dashboard design
+Transforms complex health data into actionable insights
